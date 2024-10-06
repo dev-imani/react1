@@ -22,7 +22,7 @@ function App() {
           </ul>
         </section>
         <selection id="examples">
-          <h2>Examples</h2>
+          <h2>Examples 3</h2>
           <menu>
             <TabButton onSelect={() => handleSelect('components')}>
               Components
